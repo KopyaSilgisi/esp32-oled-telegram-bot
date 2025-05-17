@@ -9,10 +9,10 @@
 #include <ArduinoJson.h>
 
 // WiFi bilgileri
-const char* ssid = "iPhone";
-const char* password = "omer6161";
-String botToken = "7728309315:AAHuCiq8GMBJ8NQC_u2ooZUT-TzJlbhLhg0";
-String chat_id = "5943374104";
+const char* ssid = "Wifi Ağ İsmi";
+const char* password = "Wifi Ağ Şifresi";
+String botToken = "********************************";
+String chat_id = "***************";
 
 // OLED
 #define SCREEN_WIDTH 128
